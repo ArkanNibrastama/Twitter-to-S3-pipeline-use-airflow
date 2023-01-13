@@ -17,4 +17,7 @@ and total of retweet (tweet).
 4. Load data into AWS S3.
 <br />
 <br />
-5. Build a Data Pipeline using airflow from the step above.
+5. Build a Data Pipeline (DAG) using airflow from the step above.
+<br />
+<br />
+6. Finally, run the DAG on the cloud AWS EC2.
